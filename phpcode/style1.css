@@ -1,0 +1,39 @@
+*
+{
+	padding: 0;
+	margin: 0;
+}
+
+body
+{
+	background-image:url(1.jpg);
+	background-size: cover;
+	background-position: center; 
+	box-sizing: border-box;
+	font-family:sans-serif;
+
+}
+
+.slide-bar
+{
+	background:white;
+	text-align: center;
+}
+
+.slide-bar ul
+{
+	display: inline-flex;
+	list-style: none;
+	color: black;
+}
+.slide-bar ul li
+{
+	width: 120px;
+	margin: 15px;
+	padding: 15px;
+}
+ 
+ .active, ..slide-bar ul li:hover
+ {
+ 	background:;
+ }
